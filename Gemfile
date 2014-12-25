@@ -12,6 +12,7 @@ gem 'cancan'
 gem 'devise'
 gem 'draper'
 gem 'pundit'
+gem 'inherited_resources', github: 'josevalim/inherited_resources', branch: 'rails-4-2'
 
 # Utility gems used in both development & test environments
 gem 'rake', require: false
